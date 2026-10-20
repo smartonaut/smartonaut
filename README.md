@@ -13,6 +13,7 @@
 | [Smartys IPTV Enigma2](https://github.com/smartonaut/smartys-iptv-enigma2) | VU+ · openATV | Plugin für Live-TV, VOD und EPG auf Enigma2-Receivern |
 | [Smartys IPTV webOS](https://github.com/smartonaut/smartys-iptv-webos) | LG Smart TV | App für webOS-Fernseher |
 | [Smartys CamViewer](https://github.com/smartonaut/smartys-camviewer) | Android | Kiosk-Viewer für RTSP/ONVIF-Kameras |
+| [Smartys Downloader](https://github.com/smartonaut/smartys-downloader) | Windows · Linux | Download-Manager für Container & One-Click-Hoster (Multi-Segment, Resume, Scheduler, Torrent) |
 
 ## Downloads
 
