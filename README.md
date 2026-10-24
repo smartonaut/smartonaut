@@ -9,6 +9,7 @@
 | Projekt | Plattform | Beschreibung |
 |---|---|---|
 | [Smartys Player Desktop](https://github.com/smartonaut/smartys-iptv-desktop) | Windows · Linux | IPTV-Player (Kotlin/Compose Multiplatform) mit Live-TV, Filmen, Serien, EPG und Aufnahmen |
+| Smartys Player iOS | iPhone · iPad | **Alpha-Test**: Live-TV, Filme, Serien, EPG, Kindersicherung (SwiftUI). Testversion und Anleitung im [Forum](https://forum.smartys.tech/d/11) |
 | [Smartys IPTV Web](https://github.com/smartonaut/smartys-iptv-web) | Web · Android · Fire TV | Landing-Page, Download-Portal und M3U-Player |
 | [Smartys IPTV Enigma2](https://github.com/smartonaut/smartys-iptv-enigma2) | VU+ · openATV | Plugin für Live-TV, VOD und EPG auf Enigma2-Receivern |
 | [Smartys IPTV webOS](https://github.com/smartonaut/smartys-iptv-webos) | LG Smart TV | App für webOS-Fernseher |
